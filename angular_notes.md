@@ -49,3 +49,5 @@ interface someVariable
 > ReadonOnly  
 > ReadonOnlyArray\<type\>
 
+
+
